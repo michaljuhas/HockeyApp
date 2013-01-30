@@ -1,0 +1,569 @@
+Thockeystick
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a normal armv7
+cLibtool /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a normal armv6
+cCreateUniversalBinary /Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.a normal "armv6 armv7"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000501B2A6100000000003AE430
+t1343957601
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000501B2A64000000000052C940
+t1343957604
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000501B2A640000000000001534
+t1343957604
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c00000000501B2A660000000000205860
+t1343957606
+s2119776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000501B2A670000000000175AA0
+t1343957607
+s1530528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000501B2A6700000000000C5770
+t1343957607
+s808816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000501B2A6A0000000000798EA0
+t1343957610
+s7966368
+
+N/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module/HockeySDK.framework/HockeySDK
+c0000000050C0D8CC000000000037CD44
+t1354815692
+s3657028
+
+N/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h
+c0000000050F945AA000000000000015F
+t1358513578
+s351
+
+N/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m
+c0000000050FCB0380000000000000BCE
+t1358737464
+s3022
+
+N/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.h
+c0000000050F7AC9100000000000000D2
+t1358408849
+s210
+
+N/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m
+c0000000050F7AC910000000000000256
+t1358408849
+s598
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITCrashManager.h
+c0000000050C0D8CC0000000000001E54
+t1354815692
+s7764
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITCrashManagerDelegate.h
+c0000000050C0D8CC00000000000012A9
+t1354815692
+s4777
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITHockeyManager.h
+c0000000050C0D8CC00000000000023CC
+t1354815692
+s9164
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITHockeyManagerDelegate.h
+c0000000050C0D8CC0000000000000748
+t1354815692
+s1864
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManager.h
+c0000000050C0D8CC00000000000029FB
+t1354815692
+s10747
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h
+c0000000050C0D8CC000000000000159F
+t1354815692
+s5535
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateViewController.h
+c0000000050C0D8CC00000000000006A5
+t1354815692
+s1701
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/HockeySDK.h
+c0000000050C0D8CC0000000000000935
+t1354815692
+s2357
+
+N/Users/farhad/Desktop/hockeystick/HockeySDK.framework/HockeySDK
+c0000000050C0D8CC000000000037CD44
+t1354815692
+s3657028
+
+N/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch
+c0000000050F7AC91000000000000003E
+t1358408849
+s62
+i<Foundation/Foundation.h>
+
+N/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.a
+t1358521959
+s58640
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystick.LinkFileList
+c0000000050F7ACF30000000000000116
+t1358408947
+s278
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.o
+t1358521959
+s23020
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.o
+t1358412917
+s5240
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a
+t1358521959
+s29136
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystick.LinkFileList
+c0000000050F7ACF30000000000000116
+t1358408947
+s278
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.o
+t1358521959
+s23348
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.o
+t1358412917
+s5232
+
+N/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a
+t1358521959
+s29456
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/Bridge.h
+c0000000050E679CB0000000000000268
+t1357281739
+s616
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/KrollCallback.h
+c0000000050E679B10000000000000A60
+t1357281713
+s2656
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/KrollContext.h
+c0000000050E679B60000000000001543
+t1357281718
+s5443
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/KrollObject.h
+c0000000050E679DB0000000000000D83
+t1357281755
+s3459
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiBase.h
+c0000000050E679E300000000000048B4
+t1357281763
+s18612
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiBindingRunLoop.h
+c0000000050E679A6000000000000022D
+t1357281702
+s557
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiBlob.h
+c0000000050E679A40000000000000B0A
+t1357281700
+s2826
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiBuffer.h
+c0000000050E679CE00000000000004F6
+t1357281742
+s1270
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiColor.h
+c0000000050E679B00000000000000496
+t1357281712
+s1174
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/Ti.h
+c0000000050E679BF0000000000000721
+t1357281727
+s1825
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiBase.h
+c0000000050E679C400000000000019E1
+t1357281732
+s6625
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiContextRef.h
+c0000000050E679AA00000000000014DD
+t1357281706
+s5341
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000050E679B00000000000000990
+t1357281712
+s2448
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiCore.h
+c0000000050E679E600000000000006A0
+t1357281766
+s1696
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiObjectRef.h
+c0000000050E679B30000000000009462
+t1357281715
+s37986
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiStringRef.h
+c0000000050E679BD00000000000016E7
+t1357281725
+s5863
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiStringRefCF.h
+c0000000050E679A80000000000000A40
+t1357281704
+s2624
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/TiValueRef.h
+c0000000050E679C3000000000000323B
+t1357281731
+s12859
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore/WebKitAvailability.h
+c0000000050E679D200000000000080D1
+t1357281746
+s32977
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiDimension.h
+c0000000050E679C90000000000001E45
+t1357281737
+s7749
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiEvaluator.h
+c0000000050E679D900000000000004D5
+t1357281753
+s1237
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiFile.h
+c0000000050E679D30000000000000680
+t1357281747
+s1664
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiHost.h
+c0000000050E679AA0000000000000503
+t1357281706
+s1283
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiModule.h
+c0000000050E679B30000000000000722
+t1357281715
+s1826
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiProxy.h
+c0000000050E679C60000000000002740
+t1357281734
+s10048
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiPublicAPI.h
+c0000000050E679AA0000000000000A67
+t1357281706
+s2663
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiStylesheet.h
+c0000000050E679C100000000000002CB
+t1357281729
+s715
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiThreading.h
+c0000000050E679AA00000000000008EF
+t1357281706
+s2287
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiUtils.h
+c0000000050E679E40000000000004707
+t1357281764
+s18183
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/WebFont.h
+c0000000050E679A500000000000008BA
+t1357281701
+s2234
+
+N/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/defines.h
+c0000000050E679AB00000000000009CE
+t1357281707
+s2510
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.pth
+t1358408947
+s2449056
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.pth
+t1358408947
+s2448708
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.pth
+t1358412917
+s2448988
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.pth
+t1358409740
+s2448988
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.pth
+t1358412917
+s2448640
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.pth
+t1358410872
+s2448988
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.pth
+t1358409740
+s2448640
+
+N/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.pth
+t1358410872
+s2448640
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc1c6ddc2e7acb641^20b81ac3e7acb641^---0#1#0#--18"Check dependencies36"5ED2F4CA-6A4C-42EB-925A-B0AD0F7C8046-
+
+CCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380430275.119529
+e380430275.364229
+r1
+xCompileC
+xbuild/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.o
+x/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation TiHockeystickModule
+o                ^
+o/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: method 'customDeviceIdentifierForUpdateManager:' in protocol not implemented [-Wprotocol]
+o/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h:61:1: note: method 'customDeviceIdentifierForUpdateManager:' declared here
+o- (NSString *)customDeviceIdentifierForUpdateManager:(BITUpdateManager *)updateManager;
+o^
+o/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h:10:12: note: required for direct or indirect protocol 'BITUpdateManagerDelegate'
+o@interface TiHockeystickModule : TiModule<BITHockeyManagerDelegate, BITUpdateManagerDelegate, BITCrashManagerDelegate>
+o           ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m2ec81ec3e7acb641^404d5dc3e7acb641^-913"/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation TiHockeystickModule                ^/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: method 'customDeviceIdentifierForUpdateManager:' in protocol not implemented [-Wprotocol]/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h:61:1: note: method 'customDeviceIdentifierForUpdateManager:' declared here- (NSString *)customDeviceIdentifierForUpdateManager:(BITUpdateManager *)updateManager;^/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h:10:12: note: required for direct or indirect protocol 'BITUpdateManagerDelegate'@interface TiHockeystickModule : TiModule<BITHockeyManagerDelegate, BITUpdateManagerDelegate, BITCrashManagerDelegate>           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-380430275#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m0000000000000000^13#16#13#16#308#0#14"Semantic Issue--2@76"Method 'customDeviceIdentifierForUpdateManager:' in protocol not implemented-380430275#18446744073709551615#0#2(2@62"Method 'customDeviceIdentifierForUpdateManager:' declared here-380430275#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h0000000000000000^60#0#60#0#2311#0#14"Semantic Issue--2@67"Required for direct or indirect protocol 'BITUpdateManagerDelegate'-380430275#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h0000000000000000^9#11#9#11#233#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m0000000000000000^13#16#13#16#308#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m0000000000000000^3587"CompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.o Classes/TiHockeystickModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv6 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -F/Users/farhad/Desktop/hockeystick/../../Downloads/HockeySDK-iOS -DTI_POST_1_2 -include /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch -MMD -MT dependencies -MF /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.d --serialize-diagnostics /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.dia -c /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m -o /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModule.o36"693F5F2B-CB22-40D7-9FBE-5400BAA6A9EC-
+
+CCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380105717.634433
+e380105717.654912
+r1
+xCompileC
+xbuild/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.o
+x/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m0d8aa2f5f3a7b641^a4a8a7f5f3a7b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m0000000000000000^3623"CompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.o Classes/TiHockeystickModuleAssets.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv6 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -F/Users/farhad/Desktop/hockeystick/../../Downloads/HockeySDK-iOS -DTI_POST_1_2 -include /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch -MMD -MT dependencies -MF /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.d --serialize-diagnostics /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.dia -c /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m -o /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystickModuleAssets.o36"98FF854B-29AF-4261-AD9F-C99EDFE9CFD1-
+
+CCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380430275.119542
+e380430275.364211
+r1
+xCompileC
+xbuild/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.o
+x/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation TiHockeystickModule
+o                ^
+o/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: method 'customDeviceIdentifierForUpdateManager:' in protocol not implemented [-Wprotocol]
+o/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h:61:1: note: method 'customDeviceIdentifierForUpdateManager:' declared here
+o- (NSString *)customDeviceIdentifierForUpdateManager:(BITUpdateManager *)updateManager;
+o^
+o/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h:10:12: note: required for direct or indirect protocol 'BITUpdateManagerDelegate'
+o@interface TiHockeystickModule : TiModule<BITHockeyManagerDelegate, BITUpdateManagerDelegate, BITCrashManagerDelegate>
+o           ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.mdec61ec3e7acb641^bc3c5dc3e7acb641^-913"/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation TiHockeystickModule                ^/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m:14:17: warning: method 'customDeviceIdentifierForUpdateManager:' in protocol not implemented [-Wprotocol]/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h:61:1: note: method 'customDeviceIdentifierForUpdateManager:' declared here- (NSString *)customDeviceIdentifierForUpdateManager:(BITUpdateManager *)updateManager;^/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h:10:12: note: required for direct or indirect protocol 'BITUpdateManagerDelegate'@interface TiHockeystickModule : TiModule<BITHockeyManagerDelegate, BITUpdateManagerDelegate, BITCrashManagerDelegate>           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-380430275#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m0000000000000000^13#16#13#16#308#0#14"Semantic Issue--2@76"Method 'customDeviceIdentifierForUpdateManager:' in protocol not implemented-380430275#18446744073709551615#0#2(2@62"Method 'customDeviceIdentifierForUpdateManager:' declared here-380430275#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/farhad/Desktop/hockeystick/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h0000000000000000^60#0#60#0#2311#0#14"Semantic Issue--2@67"Required for direct or indirect protocol 'BITUpdateManagerDelegate'-380430275#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.h0000000000000000^9#11#9#11#233#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m0000000000000000^13#16#13#16#308#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@79"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m0000000000000000^3587"CompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.o Classes/TiHockeystickModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv7 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -F/Users/farhad/Desktop/hockeystick/../../Downloads/HockeySDK-iOS -DTI_POST_1_2 -include /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch -MMD -MT dependencies -MF /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.d --serialize-diagnostics /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.dia -c /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModule.m -o /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModule.o36"F7FC5811-9E5B-40B2-BF37-A47A6EA4019B-
+
+CCompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.o /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380105717.634459
+e380105717.655679
+r1
+xCompileC
+xbuild/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.o
+x/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.mbc94a2f5f3a7b641^1adba7f5f3a7b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m0000000000000000^3623"CompileC build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.o Classes/TiHockeystickModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv7 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -F/Users/farhad/Desktop/hockeystick/../../Downloads/HockeySDK-iOS -DTI_POST_1_2 -include /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch -MMD -MT dependencies -MF /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.d --serialize-diagnostics /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.dia -c /Users/farhad/Desktop/hockeystick/Classes/TiHockeystickModuleAssets.m -o /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystickModuleAssets.o36"EEEE2A06-A736-4DA1-BF8F-84AFB71FCE0C-
+
+CCreateUniversalBinary /Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.a normal "armv6 armv7"
+s380430275.389625
+e380430275.402103
+r1
+xCreateUniversalBinary
+x/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.a
+xnormal
+xarmv6 armv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Create universal binary /Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.aaed463c3e7acb641^28f066c3e7acb641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.a0000000000000000^713"CreateUniversalBinary build/Release-iphoneos/libTiHockeystick.a normal "armv6 armv7"    cd /Users/farhad/Desktop/hockeystick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    libtool -static /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a -o /Users/farhad/Desktop/hockeystick/build/Release-iphoneos/libTiHockeystick.a36"4A961951-C9E9-4502-B707-FE316E22BAF7-
+
+CLibtool /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a normal armv6
+s380430275.371127
+e380430275.382768
+r1
+xLibtool
+x/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a
+xnormal
+xarmv6
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a normal armv6df175fc3e7acb641^7e0062c3e7acb641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1152"Libtool build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a normal armv6    cd /Users/farhad/Desktop/hockeystick    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv6 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -filelist /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/TiHockeystick.LinkFileList -ObjC -framework UIKit -framework SystemConfiguration -framework QuartzCore -framework CoreGraphics -framework Foundation -framework HockeySDK -o /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv6/libTiHockeystick.a36"5C917D6D-CD75-4B28-9940-2AA2C2F499E5-
+
+CLibtool /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a normal armv7
+s380430275.371108
+e380430275.382729
+r1
+xLibtool
+x/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a normal armv7db185fc3e7acb641^9cfd61c3e7acb641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1152"Libtool build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a normal armv7    cd /Users/farhad/Desktop/hockeystick    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -filelist /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/TiHockeystick.LinkFileList -ObjC -framework UIKit -framework SystemConfiguration -framework QuartzCore -framework CoreGraphics -framework Foundation -framework HockeySDK -o /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/Objects-normal/armv7/libTiHockeystick.a36"5EED3089-D133-4EE2-A43B-2C1F58D3E7DB-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380101747.629220
+e380101747.753965
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch823aa173e4a7b641^da03c173e4a7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3415"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv7 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-asfvgvyzltjafrdvmydccanjsdro/TiHockeystick_Prefix.pch.d36"E8B42DE3-F0F2-4CE6-9F22-516C9DC4DB87-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380101747.629236
+e380101747.753968
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch153ca173e4a7b641^8108c173e4a7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3415"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv6 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-bfnvcvvwpldfwzcqarzqrknyeqyn/TiHockeystick_Prefix.pch.d36"7D8570DD-BE7F-4BDC-B1A2-FD9DC57C032E-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380105717.504403
+e380105717.627019
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch564881f5f3a7b641^478ea0f5f3a7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3586"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv7 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -F/Users/farhad/Desktop/hockeystick/../../Downloads/HockeySDK-iOS -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-dpgtlqzoajzufweufvgteckhlqlz/TiHockeystick_Prefix.pch.d36"F59177A1-B649-4297-B442-5C1CA33EF20D-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380102540.323011
+e380102540.444517
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch6fd8528ce7a7b641^fbcc718ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3451"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv7 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eflphodabdjetmfrbuphgqowucnn/TiHockeystick_Prefix.pch.d36"1AA2BBA5-30E5-4ED6-AA40-3C82F8856354-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380105717.504408
+e380105717.627016
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pcha54981f5f3a7b641^1f84a0f5f3a7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3586"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv6 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -F/Users/farhad/Desktop/hockeystick/../../Downloads/HockeySDK-iOS -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-efvzhhrtcuysdcbrbvuqijgjwrog/TiHockeystick_Prefix.pch.d36"72DA669D-71AA-4B20-9D53-50F5795DF816-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380103672.844353
+e380103672.969534
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch904fd8f8eba7b641^1e33f8f8eba7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3520"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv7 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-eqodiqksleofhbaxveotiuurrevx/TiHockeystick_Prefix.pch.d36"71D8C9D7-2188-4E9B-94C4-53304E0C2BB3-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380102540.323020
+e380102540.445067
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch2cd8528ce7a7b641^b7ef718ce7a7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3451"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv6 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gfjaajfqhndqfkctciygwscnhvbf/TiHockeystick_Prefix.pch.d36"CE1A5B61-9D57-4C57-8B0F-54FB4E634A13-
+
+CProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380103672.844356
+e380103672.969536
+r1
+xProcessPCH
+x/var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.pth
+xTiHockeystick_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TiHockeystick_Prefix.pch2b4fd8f8eba7b641^e84af8f8eba7b641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch0000000000000000^3520"ProcessPCH /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.pth TiHockeystick_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/farhad/Desktop/hockeystick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-generated-files.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-own-target-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-all-target-headers.hmap -iquote /Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/TiHockeystick-project-headers.hmap -I/Users/farhad/Desktop/hockeystick/build/Release-iphoneos/include "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include" "-I/Users/farhad/Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/iphone/include/TiCore" -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources/armv6 -I/Users/farhad/Desktop/hockeystick/build/hockeystick.build/Release-iphoneos/hockeystick.build/DerivedSources -F/Users/farhad/Desktop/hockeystick/build/Release-iphoneos -F/Users/farhad/Desktop/hockeystick -F/Users/farhad/Desktop/hockeystick/../HockyStick/hockeystick-module -DTI_POST_1_2 --serialize-diagnostics /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.dia -c /Users/farhad/Desktop/hockeystick/TiHockeystick_Prefix.pch -o /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9z/k5tx9j813sqg6frlcr2nyk8w0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/TiHockeystick_Prefix-gkaarpgwswtiukgvtbjwddakinrc/TiHockeystick_Prefix.pch.d36"2BA0BA0F-591A-43C2-943C-C4B84105715A-
+

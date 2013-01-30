@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: hockeystick
+moduleid: ti.hockeystick
+guid: 20e11fcd-46d1-44fd-ad61-416cda43b916
+platform: iphone
+minsdk: 3.0.0.GA
